@@ -6,6 +6,7 @@ The AI-Powered-Sustainability-Recommendation-Chatbot is an intelligent chatbot d
 
 Users can select which metric to prioritize, and the bot uses LLM-based reasoning to provide context-aware suggestions. It supports asynchronous multi-objective prompting.
 
+#------------------------------------------------------------------------
 
 🚀 Features
 
@@ -15,8 +16,7 @@ Users can select which metric to prioritize, and the bot uses LLM-based reasonin
 
 🧩 Prioritization control: Users can assign a primary focus (e.g., sustainability-first) for tailored advice.
 
-
-
+#------------------------------------------------------------------------
 
 🧰 Tech Stack
 
@@ -30,7 +30,7 @@ Huggingface Transformers – LLMs for prompt handling
 
 Asyncio – For concurrent multi-goal prompt execution
 
-
+#------------------------------------------------------------------------
 
 🛠 How It Works
 User Input: Deployment architecture text
