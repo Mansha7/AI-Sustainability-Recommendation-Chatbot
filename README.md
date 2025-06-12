@@ -1,11 +1,13 @@
 # AI-Sustainability-Recommendation-Chatbot
 
 🧠 Overview
+
 The AI-Powered-Sustainability-Recommendation-Chatbot is an intelligent chatbot designed to analyze the architectural deployment details of software applications and generate prioritized recommendations to optimize for sustainability, performance, and cost —with a primary focus on environmental impact.
 
 Users can select which metric to prioritize, and the bot uses LLM-based reasoning to provide context-aware suggestions. It supports asynchronous multi-objective prompting.
 
 🚀 Features
+
 🔍 LLM-based analysis: Uses Huggingface models via Ollama for contextual understanding of deployment data
 
 ⚡ Async optimization: Parallel execution of prompts for sustainability, performance, and cost suggestions
