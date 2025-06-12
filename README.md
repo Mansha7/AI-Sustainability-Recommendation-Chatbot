@@ -8,11 +8,9 @@ Users can select which metric to prioritize, and the bot uses LLM-based reasonin
 
 🚀 Features
 
-🔍 LLM-based analysis: Uses Huggingface models via Ollama for contextual understanding of deployment data
-
-⚡ Async optimization: Parallel execution of prompts for sustainability, performance, and cost suggestions
-
-🧩 Prioritization control: Users can assign a primary focus (e.g., sustainability-first) for tailored advice
+🔍 LLM-based analysis: Uses Huggingface models via Ollama for contextual understanding of deployment data.
+⚡ Async optimization: Parallel execution of prompts for sustainability, performance, and cost suggestions.
+🧩 Prioritization control: Users can assign a primary focus (e.g., sustainability-first) for tailored advice.
 
 🧰 Tech Stack
 
